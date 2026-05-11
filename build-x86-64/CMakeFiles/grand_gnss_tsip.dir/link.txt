@@ -1,2 +1,0 @@
-/usr/bin/ar qc libgrand_gnss_tsip.a CMakeFiles/grand_gnss_tsip.dir/src/gnss_tsip.c.o
-/usr/bin/ranlib libgrand_gnss_tsip.a

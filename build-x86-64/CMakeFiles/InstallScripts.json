@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/vincent/Devel/Heron/gnss_tsip/build-x86-64/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
