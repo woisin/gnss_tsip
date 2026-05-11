@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-gcc -Wl,--dependency-file=CMakeFiles/gnss_set_overdetermined_position.dir/link.d CMakeFiles/gnss_set_overdetermined_position.dir/src/gnss_set_overdetermined_position.c.o -o gnss_set_overdetermined_position  libgrand_gnss_tsip.a -lm
